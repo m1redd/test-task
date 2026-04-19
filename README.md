@@ -1,7 +1,7 @@
 # Cache Test Task
 
 A TypeScript coding challenge: implement a type-safe, high-performance cache for
-asynchronous getters.
+asynchronous getters. Time spent: 1h
 
 ## The Task
 
