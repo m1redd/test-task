@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# local scratch
+trytamiTmp/
+docs/
+
+# editor/os
+.idea/
+.vscode/
